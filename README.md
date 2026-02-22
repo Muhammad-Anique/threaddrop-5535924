@@ -4,6 +4,7 @@ A minimalist, high-conversion landing page for a streetwear brand. Built with Ne
 
 ![ThreadDrop Preview](https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1200&h=600&fit=crop)
 
+
 ## Features
 
 - **Premium Landing Experience**: Single-page application with smooth scroll animations and minimalist streetwear aesthetic
