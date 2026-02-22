@@ -1,4 +1,4 @@
-ThreadDrop — Task List (Next.js, TypeScript, Tailwind, Supabase) | Repo: https://github.com/Muhammad-Anique/threaddrop-5535924 | Status: In Progress
+ThreadDrop — Task List (Next.js, TypeScript, Tailwind, Supabase) | Repo: https://github.com/Muhammad-Anique/threaddrop-5535924 | Status: Complete
 
 Tasks:
 1. [x] Initialize Next.js project — deps: next, react, react-dom, typescript, tailwindcss, @supabase/supabase-js; files: package.json, next.config.mjs, tsconfig.json, .gitignore | Commit: `chore: initialize Next.js project`
@@ -11,4 +11,4 @@ Tasks:
 8. [x] Build Lead Capture Form Component — file: components/LeadForm.tsx; fields: Name, Email; submission to Supabase `leads` table | Commit: `feat: add lead capture form`
 9. [x] Assemble Main Landing Page — update app/page.tsx; compose: Hero, ProductShowcase, LeadForm, WhatsAppCTA | Commit: `feat: assemble landing page`
 10. [x] Final CSS Refinements and Interactivity — update app/globals.css + components; premium streetwear: typography, spacing, hover states | Commit: `style: final UI refinements`
-11. [ ] Write README — file: README.md; content: ThreadDrop, features (waitlist, WhatsApp), tech stack, project structure, env vars | Commit: `docs: add comprehensive README`
+11. [x] Write README — file: README.md; content: ThreadDrop, features (waitlist, WhatsApp), tech stack, project structure, env vars | Commit: `docs: add comprehensive README`
