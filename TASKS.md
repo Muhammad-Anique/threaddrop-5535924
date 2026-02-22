@@ -3,7 +3,7 @@ ThreadDrop — Task List (Next.js, TypeScript, Tailwind, Supabase) | Repo: https
 Tasks:
 1. [x] Initialize Next.js project — deps: next, react, react-dom, typescript, tailwindcss, @supabase/supabase-js; files: package.json, next.config.mjs, tsconfig.json, .gitignore | Commit: `chore: initialize Next.js project`
 2. [x] Configure Tailwind CSS — files: tailwind.config.ts, postcss.config.mjs; theme: minimalist streetwear (Black, White, Washed Grey, Off-White) | Commit: `chore: add Tailwind CSS config`
-3. [ ] Set up Supabase Client — file: lib/supabaseClient.ts; env vars: NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY; create .env.example | Commit: `chore: add supabase client`
+3. [x] Set up Supabase Client — file: lib/supabaseClient.ts; env vars: NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY; create .env.example | Commit: `chore: add supabase client`
 4. [ ] Create Global Layout and Styles — files: app/layout.tsx (metadata, fonts), app/globals.css (Tailwind + streetwear styles) | Commit: `feat: add root layout and global styles`
 5. [ ] Implement WhatsApp CTA Component — file: components/WhatsAppCTA.tsx; link: https://wa.me/923204589040 (floating button) | Commit: `feat: add WhatsApp CTA component`
 6. [ ] Build Hero Component — file: components/Hero.tsx; features: product intro, "drop culture" messaging, "Notify Me" scroll trigger to lead form | Commit: `feat: add hero component`
