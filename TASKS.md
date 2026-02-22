@@ -9,6 +9,6 @@ Tasks:
 6. [x] Build Hero Component — file: components/Hero.tsx; features: product intro, "drop culture" messaging, "Notify Me" scroll trigger to lead form | Commit: `feat: add hero component`
 7. [x] Build Product Showcase Component — file: components/ProductShowcase.tsx; grid layout, T-shirt designs, placeholder streetwear imagery, minimalist cards | Commit: `feat: add product showcase component`
 8. [x] Build Lead Capture Form Component — file: components/LeadForm.tsx; fields: Name, Email; submission to Supabase `leads` table | Commit: `feat: add lead capture form`
-9. [ ] Assemble Main Landing Page — update app/page.tsx; compose: Hero, ProductShowcase, LeadForm, WhatsAppCTA | Commit: `feat: assemble landing page`
+9. [x] Assemble Main Landing Page — update app/page.tsx; compose: Hero, ProductShowcase, LeadForm, WhatsAppCTA | Commit: `feat: assemble landing page`
 10. [ ] Final CSS Refinements and Interactivity — update app/globals.css + components; premium streetwear: typography, spacing, hover states | Commit: `style: final UI refinements`
 11. [ ] Write README — file: README.md; content: ThreadDrop, features (waitlist, WhatsApp), tech stack, project structure, env vars | Commit: `docs: add comprehensive README`
