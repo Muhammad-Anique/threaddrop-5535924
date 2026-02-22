@@ -23,7 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Local env files
-.env
 .env*.local
 
 # Vercel
@@ -56,3 +55,4 @@ share/python-wheels/
 *.egg
 MANIFEST
 Thumbs.db
+config.bat
